@@ -42,5 +42,3 @@ Conditional rendering means showing different UI depending on a condition. For e
 A parent passes data and functions through props. A child calls a function prop when it needs to send an action back to the parent.
 
 
-
-
