@@ -19,7 +19,7 @@ function Technologies({ technologiesPromise, stack, onAdd, onRemove, onRemoveAll
       <div className="mb-7 ">
         
         <h2 className="mt-2 text-2xl font-extrabold  text-slate-950 md:text-3xl">
-          Explore <span className="bg-gradient-to-r from-orange-500 via-pink-500 to-violet-600 bg-clip-text text-transparent ">Technologies</span>
+          Explore <span className="text-pink-700 ">Technologies</span>
         </h2>
         <p className=" mt-2 max-w-xl text-xs leading-5 text-slate-500">Pick one technology per category to build your ideal stack.</p>
       </div>
